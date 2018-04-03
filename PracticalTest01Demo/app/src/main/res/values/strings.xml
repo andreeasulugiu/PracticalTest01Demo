@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest01Demo</string>
+    <string name="press_me">PRESS ME!</string>
+    <string name="press_me_too">PRESS ME TOO!</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="navigate">Navigate</string>
+</resources>
